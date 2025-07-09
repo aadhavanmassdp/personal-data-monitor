@@ -47,4 +47,4 @@ Submit a pull request with a detailed description of your changes.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
-For any inquiries or support, please contact the development team at support@example.com.
+For any inquiries or support, please contact the development team at aadthiyaa@gmail.com
